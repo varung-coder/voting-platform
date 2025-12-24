@@ -12,11 +12,12 @@ A secure, real-time web application designed for student elections. This platfor
 - **Responsive Design:** A clean, mobile-friendly interface built for all devices.
 
 ## 🛠️ Tech Stack
-- **Language:** JavaScript (ES6+)
+- **Language:** JavaScript (ES6+) and HTML5 
 - **Frontend Library:** React.js (Vite)
 - **Styling:** Tailwind CSS
 - **Icons:** Lucide-React
-- **Backend & Database:** Google Firebase (Firestore & Authentication)
+- **Backend & Database:** Google Firebase   (Firestore & Authentication)
+- Deployment : Vercel 
 
 ⚙️ Setup & Installation
 - Clone or Download the repository.
