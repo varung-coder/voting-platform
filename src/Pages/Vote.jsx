@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 import { onAuthStateChanged } from "firebase/auth";
 
 import varunImg from "../assets/varun.jpeg";
-import selinImg from "../assets/selin.png";
+import selinImg from "../assets/Selin.png";
 
 function Vote() {
   const navigate = useNavigate();
@@ -114,5 +114,6 @@ const imgStyle = { width: "180px", height: "180px", borderRadius: "50%", objectF
 const nameStyle = { fontSize: "1.2rem", fontWeight: "bold", color: "#222", marginBottom: "10px" };
 const lnBtn = { display: "flex", alignItems: "center", justifyContent: "center", color: "#0077b5", textDecoration: "none", fontWeight: "bold", marginBottom: "20px", fontSize: "0.9rem" };
 const voteBtnStyle = { backgroundColor: "#28a745", color: "white", border: "none", padding: "14px 0", width: "100%", borderRadius: "30px", cursor: "pointer", fontWeight: "bold", fontSize: "1rem" };
+
 
 export default Vote;
