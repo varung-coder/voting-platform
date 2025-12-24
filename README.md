@@ -31,5 +31,5 @@ A secure student voting system built with React and Firebase, featuring Google A
 👥️ Project Team 
 - **G VARUN **- Lead Full Stack Developer
    *( Technical Architecture,Firebase Integration and React Development)*
-- *SELIN ROSE SHAJU*- Project Support Lead
+- **SELIN ROSE SHAJU**- Project Support Lead
     *( Testing and Research support)*
