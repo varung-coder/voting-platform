@@ -28,7 +28,7 @@ A secure, real-time web application designed for student elections. This platfor
 # voting-platform
 A secure student voting system built with React and Firebase, featuring Google Authentication and real-time vote tracking.
 
-👥️ Project Team 
+##👥️ Project Team 
 - **G VARUN **- Lead Full Stack Developer
    *( Technical Architecture,Firebase Integration and React Development)*
 - **SELIN ROSE SHAJU**- Project Support Lead
