@@ -34,5 +34,5 @@ A secure student voting system built with React and Firebase, featuring Google A
   *(Technical Architecture, Firebase Integration, & React Development)*
 
 * **Selin Rose Shaju** – Project Support Lead 
-  *(Testing, and Research Support)*
+  *(Quality Assurance and Research Support)*
 
