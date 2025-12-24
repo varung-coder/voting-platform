@@ -3,7 +3,7 @@
 A secure, real-time web application designed for student elections. This platform ensures a fair and transparent voting process by leveraging Google Authentication to verify voters and preventing duplicate entries through database logic.
 
 ## 🚀 Live Demo
-**[PASTE YOUR VERCEL LINK HERE AFTER DEPLOYING]**
+**[Link](https://voting-platform-one.vercel.app)**
 
 ## ✨ Key Features
 - **Secure Authentication:** Users sign in via Google OAuth to verify their identity.
