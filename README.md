@@ -18,6 +18,7 @@ A secure, real-time web application designed for student elections. This platfor
 - **Icons:** Lucide-React
 - **Backend & Database:** Google Firebase   (Firestore & Authentication)
 - Deployment : Vercel 
+- Editor: VS Code
 
 ⚙️ Setup & Installation
 - Clone or Download the repository.
