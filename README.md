@@ -5,7 +5,7 @@ A secure, real-time web application designed for student elections. This platfor
 ## 🚀 Live Demo
 **[Link](https://voting-platform-one.vercel.app)**
 
-​🛡️ Tech Stack & Syllabus Alignment
+​🛡️ Syllabus Alignment
 - ​This project implements the core principles from the WhiteMatrix study materials (Next.js & AWS Lambda) through a real-time serverless stack:
 - ​Architecture: Serverless (Following the event-driven logic of AWS Lambda).
 - ​Frontend: React.js (Following the component-based UI patterns of Next.js).
