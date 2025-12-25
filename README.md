@@ -5,13 +5,6 @@ A secure, real-time web application designed for student elections. This platfor
 ## 🚀 Live Demo
 **[Link](https://voting-platform-one.vercel.app)**
 
-​🛡️ Syllabus Alignment
-- ​This project implements the core principles from the WhiteMatrix study materials (Next.js & AWS Lambda) through a real-time serverless stack:
-- ​Architecture: Serverless (Following the event-driven logic of AWS Lambda).
-- ​Frontend: React.js (Following the component-based UI patterns of Next.js).
-- ​Backend/DB: Google Firebase (Chosen for instant Real-time Sync required for live voting).
-- ​Security: Google OAuth 2.0 + Database unique-entry validation.
-
 ## ✨ Key Features
 - **Secure Authentication:** Users sign in via Google OAuth to verify their identity.
 - **Single-Vote Logic:** The system checks the user's unique ID against the database to prevent multiple votes.
@@ -35,6 +28,13 @@ A secure, real-time web application designed for student elections. This platfor
 - Run npm run dev to launch the project locally.
 # voting-platform
 A secure student voting system built with React and Firebase, featuring Google Authentication and real-time vote tracking.
+
+🛡️ Syllabus Alignment
+- ​This project implements the core principles from the WhiteMatrix study materials (Next.js & AWS Lambda) through a real-time serverless stack:
+- ​Architecture: Serverless (Following the event-driven logic of AWS Lambda).
+- ​Frontend: React.js (Following the component-based UI patterns of Next.js).
+- ​Backend/DB: Google Firebase (Chosen for instant Real-time Sync required for live voting).
+- ​Security: Google OAuth 2.0 + Database unique-entry validation.
 
 ## 👥 Project Team
 
