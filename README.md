@@ -9,6 +9,7 @@ A secure, real-time web application designed for student elections. This platfor
 - **Secure Authentication:** Users sign in via Google OAuth to verify their identity.
 - **Single-Vote Logic:** The system checks the user's unique ID against the database to prevent multiple votes.
 - **Real-time Database:** Vote counts and user statuses are updated instantly using Firebase Firestore.
+- **LinkedIn Integration**: Dynamic profile links for both candidates and voters to ensure professional transparency.
 - **Responsive Design:** A clean, mobile-friendly interface built for all devices.
 
 ## 🛠️ Tech Stack
