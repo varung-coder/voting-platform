@@ -21,16 +21,19 @@ A secure, real-time web application designed for student elections. This platfor
 - Deployment : Vercel 
 - Editor: VS Code
 
-- ## 📁 Project Structure
+<pre>
+📁 Project Structure
 root/
-├── public/          # Static assets and icons
+├── public/          # Static assets (images, icons)
 ├── src/
-│   ├── components/  # Reusable UI elements
-│   ├── firebase.js  # Firebase & Google Auth Configuration
-│   ├── Vote.jsx     # Core Voting Logic & Database validation
-│   └── App.jsx      # Main routing and User State
-├── index.html       # Entry point
-└── vite.config.js   # Build tool configuration
+│   ├── components/  # Reusable UI elements (Navbar, Buttons)
+│   ├── firebase.js  # Firebase Initialization & Security Config
+│   ├── Vote.jsx     # CORE LOGIC: Single-vote validation & Firestore updates
+│   ├── App.jsx      # Main routing & User Authentication state
+│   └── main.jsx     # Application entry point
+├── index.html       # Root HTML template
+└── vite.config.js   # Vite build configuration
+</pre>
 
 ⚙️ Setup & Installation
 - Clone or Download the repository.
