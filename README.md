@@ -22,7 +22,7 @@ A secure, real-time web application designed for Whitematrix Internship Machine 
 - Editor: VS Code
 
 <pre>
-📁 Project Structure
+## 📁 Project Structure
 root/
 ├── public/          # Static assets (images, icons)
 ├── src/
@@ -50,7 +50,7 @@ A secure student voting system built with React and Firebase, featuring Google A
 - ​Backend/DB: Google Firebase (Chosen for instant Real-time Sync required for live voting).
 - ​Security: Google OAuth 2.0 + Database unique-entry validation.
 
-  📜 License
+ ## 📜 License
 This project was created exclusively for the White Matrix Internship Machine Test (December 2025).
 
 ## 👥 Project Team
