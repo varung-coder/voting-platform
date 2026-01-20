@@ -1,6 +1,6 @@
 # 🗳️ Voting Platform
 
-A secure, real-time web application designed for student elections. This platform ensures a fair and transparent voting process by leveraging Google Authentication to verify voters and preventing duplicate entries through database logic.
+A secure, real-time web application designed for Whitematrix Internship Machine Test (December 2025). This platform ensures a fair and transparent voting process by leveraging Google Authentication to verify voters and preventing duplicate entries through database logic.
 
 ## 🚀 Live Demo
 **[Link](https://voting-platform-one.vercel.app)**
